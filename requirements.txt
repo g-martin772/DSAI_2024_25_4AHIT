@@ -1,0 +1,10 @@
+jupyter
+jupyter-book
+ipykernel
+pandas
+numpy
+matplotlib
+polars
+altair
+plotly
+vega_datasets
