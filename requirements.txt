@@ -1,10 +1,14 @@
 jupyter
 jupyter-book
 ipykernel
-pandas
-numpy
-matplotlib
+pandas~=2.2.3
+numpy~=2.2.1
+matplotlib~=3.10.0
 polars
 altair
 plotly
 vega_datasets
+SQLAlchemy~=2.0.36
+scikit-learn~=1.6.1
+scipy~=1.15.1
+seaborn~=0.13.2
